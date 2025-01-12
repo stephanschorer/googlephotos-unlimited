@@ -1,6 +1,6 @@
 # Backup Photos and Videos to Google Photos without using cloud storage
 
-The scripts are designed to back up photos and videos from your phone via a remote server to your OG Pixel. It uses rsync to efficiently transfer only new or changed files, saving bandwidth and time. The script also checks for files deleted on the server (or are backed=up to Google Photos) and moves the corresponding files on your phone to a backup directory. This prevents accidental permanent deletion of your photos and videos.
+The scripts are designed to back up photos and videos from your phone via a remote server to your OG Pixel. It uses rsync to efficiently transfer only new or changed files, saving bandwidth and time. The scripts also check for files deleted on the server (or are backed-up to Google Photos and therefore being deleted locally) and moves the corresponding files on your phone to a backup directory. This prevents accidental permanent deletion of your photos and videos.
 
 ## Workflow
 - Take photos/videos on your main phone
