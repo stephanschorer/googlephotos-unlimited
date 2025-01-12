@@ -26,6 +26,7 @@ The scripts are designed to back up photos and videos from your phone via a remo
 - Copy both scripts into `$HOME/.shortcuts/` folder
 - Adjust the variables in scripts
 - Use [Termux:Widget](https://f-droid.org/de/packages/com.termux.widget/) to create a shortcut of the script to your homescreen
+- Execute both [scripts](https://github.com/stephanschorer/googlephotos-unlimited/tree/main/scripts) once that the timestamp files are being created
 
 ## Setup Server
 - Create new Linux user for the following
