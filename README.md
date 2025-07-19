@@ -31,7 +31,7 @@ The scripts are designed to back up photos and videos from your phone via a remo
 ## Setup Server
 - Create new Linux user for the following
 - Setup Syncthing Docker Container for example the one from [LinuxServer.io](https://docs.linuxserver.io/images/docker-syncthing/#application-setup:~:text=must%20be%20provided.-,docker%2Dcompose%20(recommended%2C%20click%20here%20for%20more%20info),-%C2%B6)
-- Remeber to set the correct ownership: `chown -R user:user /path/to/dir`
+- Remember to set the correct ownership: `chown -R user:user /path/to/dir`
 
 ## Setup Pixel / Pixel XL
 Read through these Reddit posts, there you will find all you need to know:
